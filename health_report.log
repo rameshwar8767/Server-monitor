@@ -1,0 +1,120 @@
+SERVER HEALTH REPORT
+Generated on: Wed Jun 24 09:26:50 UTC 2026
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       324Mi       303Mi       2.8Mi       393Mi       583Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root         14G  2.3G   12G  17% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  940K  181M   1% /run
+efivarfs         128K  4.2K  119K   4% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+Nginx Status:
+Nginx is Running
+
+SERVER HEALTH REPORT
+Generated on: Wed Jun 24 09:45:01 UTC 2026
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  4.5 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       334Mi       263Mi       2.8Mi       427Mi       574Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root         14G  2.3G   12G  17% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  960K  181M   1% /run
+efivarfs         128K  4.2K  119K   4% /sys/firmware/efi/efivars
+tmpfs            455M  8.0K  455M   1% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+Nginx Status:
+Nginx is Running
+
+SERVER HEALTH REPORT
+Generated on: Wed Jun 24 09:50:01 UTC 2026
+
+CPU Usage:
+%Cpu(s):  0.0 us,  7.7 sy,  0.0 ni, 65.4 id,  0.0 wa,  0.0 hi,  0.0 si, 26.9 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       335Mi       261Mi       2.8Mi       428Mi       572Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root         14G  2.3G   12G  17% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  960K  181M   1% /run
+efivarfs         128K  4.2K  119K   4% /sys/firmware/efi/efivars
+tmpfs            455M  8.0K  455M   1% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+Nginx Status:
+Nginx is Running
+
+SERVER HEALTH REPORT
+Generated on: Wed Jun 24 09:55:01 UTC 2026
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       336Mi       260Mi       2.8Mi       428Mi       572Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root         14G  2.3G   12G  17% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  960K  181M   1% /run
+efivarfs         128K  4.2K  119K   4% /sys/firmware/efi/efivars
+tmpfs            455M  8.0K  455M   1% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+Nginx Status:
+Nginx is Running
+
